@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffeecc"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:text="Aceleracion"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="a_x"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewAX"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Aceleracion_X"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="a_y"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewAY"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Aceleracion_Y"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="a_z"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewAZ"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Aceleracion_Z"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="a modulo"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Aceleracion"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="a_maxima"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewAmax"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Aceleracion_max"
+        android:textColor="#000000"
+        />
+
+    <View
+        android:background="#000000"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="Gravedad standard"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/textViewG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Gravedad_standard"
+        android:textColor="#000000"
+        />
+</LinearLayout>

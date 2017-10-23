@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/asdf/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-fd518992efc814baba7eaf46c8ee86c85a846460.jar" />
+    </item>
+    <item
+        jar="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/pre-dexed/debug/classes-1f45fffb1f8b863a226ff28abe95bb718049e3a0.jar" />
+    </item>
+    <item
+        jar="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/pre-dexed/debug/classes-b45263a0f91a2c83b9073effa237e60f7be36e69.jar" />
+    </item>
+    <item
+        jar="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/asdf/AndroidStudioProjects/Acelerometro/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-561138abf9375bca00b808851a8ebb525ca75102.jar" />
+    </item>
+
+</items>
